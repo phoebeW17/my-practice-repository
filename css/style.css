@@ -33,3 +33,39 @@ nav a:hover {
     color:aqua;
 
 }
+
+.card {
+    float: left;
+    width: 20%;
+    margin-left: 10%;
+}
+
+.card a {
+    text-align: center;
+}
+
+#coffee {
+    width: 50%;
+    height: 180px;
+}
+.crepes-card {
+    float: right;
+    width: 5%;
+    margin-left: 10%;
+}
+
+#crepes {
+    width: 50%;
+    height: 180px;
+}
+
+h1 {
+    text-align: center;
+    color: #c99af5;
+    background-color: white;
+}
+
+
+h2 {
+    text-align: center;
+}
